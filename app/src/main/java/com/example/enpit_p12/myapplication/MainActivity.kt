@@ -7,6 +7,7 @@ import android.preference.PreferenceManager
 import android.view.View
 import kotlinx.android.synthetic.main.activity_main.*
 //test...
+//test
 
 class MainActivity : AppCompatActivity() {
 
